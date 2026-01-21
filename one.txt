@@ -1,1 +1,7 @@
 My frist projrct
+
+Thank you  to help me ChatGPT
+
+Change remote from HTTPS → SSH
+
+HTTPS not suport in this
